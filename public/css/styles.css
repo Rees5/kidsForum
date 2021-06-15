@@ -1,0 +1,8 @@
+/* .intro
+{
+    background-image: url("/storage/assets/children-wallpaper-7.jpg");
+} */
+.intro{
+    /* background-image: asset('images/children-wallpaper-7.jpg'); */
+    background-image: url('/public/images/children-wallpaper-7.jpg');
+}
